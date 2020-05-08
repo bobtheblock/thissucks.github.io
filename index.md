@@ -8,19 +8,19 @@
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>WOW this is not fun</th>
+    <th>I can't belive I have to do work</th>
+    <th>I think that I should get a 100</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>this hurts to have to do</td>
+    <td>why</td>
+    <td>help</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>sooooo much work</td>
+    <td>a lot of work</td>
+    <td>toooo much work</td>
   </tr>
 </table>
 
