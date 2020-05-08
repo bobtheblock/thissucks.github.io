@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -30,5 +30,4 @@
   <li>even more pain</li>
 </ul>
 
-</body>
-</html>
+
